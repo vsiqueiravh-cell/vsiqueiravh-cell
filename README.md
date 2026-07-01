@@ -1,6 +1,8 @@
 # Victor Henrique de Siqueira
 
-**Enterprise Software Engineer** focused on Dynamics 365 Finance & Operations, .NET, React, TypeScript, cloud architecture, ERP integrations and AI-enabled business applications.
+**Enterprise Software Engineer and Technical Team Leader** focused on ERP ecosystems, cloud solutions, system integrations and scalable business applications.
+
+I work with Microsoft Dynamics 365 F&O, Dynamics AX 2012, X++, .NET/C#, REST APIs, React, TypeScript, Node.js, PostgreSQL, Azure, Docker and enterprise software architecture.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vsiqueiravh--cell-181717?logo=github)](https://github.com/vsiqueiravh-cell)
 [![Email](https://img.shields.io/badge/Email-victor.h.siqueira%40hotmail.com-0f6cbd)](mailto:victor.h.siqueira@hotmail.com)
@@ -10,9 +12,12 @@
 
 - Enterprise software architecture
 - Dynamics 365 F&O and ERP integrations
+- Dynamics AX 2012 and X++ modernization
 - .NET APIs, SDKs and clean architecture
-- React and TypeScript enterprise interfaces
-- Cloud-ready delivery with Docker and CI/CD
+- REST API design and system integration
+- React, TypeScript and Node.js enterprise applications
+- Cloud-ready delivery with Docker, CI/CD and Azure
+- Technical leadership and engineering standards
 - AI assistants grounded in business data and auditability
 
 ## Featured Portfolio
@@ -30,12 +35,24 @@
 
 ![.NET](https://img.shields.io/badge/.NET-10-512bd4)
 ![C#](https://img.shields.io/badge/C%23-Enterprise-68217a)
+![X++](https://img.shields.io/badge/X%2B%2B-Dynamics_AX-0f6cbd)
 ![React](https://img.shields.io/badge/React-19-149eca)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178c6)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)
+![DB2](https://img.shields.io/badge/DB2-IBM-052fAD)
 ![Docker](https://img.shields.io/badge/Docker-2496ed)
 ![Azure](https://img.shields.io/badge/Azure-0078d4)
+![AWS](https://img.shields.io/badge/AWS-232f3e)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261fe)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics_365-F%26O-0f6cbd)
+
+**ERP:** Dynamics 365 F&O, Dynamics AX 2012, X++  
+**Backend:** .NET, C#, Node.js, Python  
+**Frontend:** React, TypeScript, JavaScript  
+**Database:** SQL Server, PostgreSQL, MongoDB, DB2  
+**Cloud & DevOps:** Azure, AWS, IBM Cloud, Docker, Git
 
 ## Engineering Approach
 
